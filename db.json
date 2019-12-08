@@ -5,6 +5,7 @@
       "name": "Mina samir",
       "descrpition": "Android Developer",
       "address": "St.helwan",
+      "rate": 4.3,
       "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F11.jpg?alt=media&token=6ff16a84-e241-4858-9fda-77074db5880c"
     },
     {
@@ -12,6 +13,7 @@
       "name": "Fady Romaney",
       "descrpition": "Call center",
       "address": "St.October",
+      "rate": 4.2,
       "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F11.jpg?alt=media&token=6ff16a84-e241-4858-9fda-77074db5880c"
     }
   ]
