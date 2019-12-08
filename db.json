@@ -5,21 +5,21 @@
       "name": "Mina samir",
       "descrpition": "Android Developer",
       "address": "St.helwan",
-      "photo url": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F11.jpg?alt=media&token=6ff16a84-e241-4858-9fda-77074db5880c"
+      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F11.jpg?alt=media&token=6ff16a84-e241-4858-9fda-77074db5880c"
     },
     {
       "id": 2,
       "name": "Fady Romaney",
       "descrpition": "Call center",
       "address": "St.October",
-      "photo url": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F11.jpg?alt=media&token=6ff16a84-e241-4858-9fda-77074db5880c"
+      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F11.jpg?alt=media&token=6ff16a84-e241-4858-9fda-77074db5880c"
     },
     {
       "id": 3,
       "name": "Tomas Adel",
       "descrpition": "Software Enginner",
       "address": "St.Sohag",
-      "photo url": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F1560375465473.jpg?alt=media&token=d4f6a098-ceda-47ea-8771-7aee8826c0f2"
+      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F1560375465473.jpg?alt=media&token=d4f6a098-ceda-47ea-8771-7aee8826c0f2"
     }
   ]
 }
