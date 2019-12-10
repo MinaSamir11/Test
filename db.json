@@ -215,62 +215,6 @@
       "address": "St.Hadeq Maadi",
       "rate": 4.3,
       "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2FWorried-2.jpg?alt=media&token=771be97f-92bc-453e-8d89-24ded3b52488"
-    },
-     {
-      "id": 28,
-      "name": "Mina samir",
-      "descrpition": "Android Developer",
-      "address": "St.helwan",
-      "rate": 4.9,
-      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2Fpexels-photo-220453-1-1001x1024.jpeg?alt=media&token=bd4cc756-3fa0-4ca3-88c9-ee0b86d8b05c"
-    },
-    {
-      "id": 29,
-      "name": "Fady Romaney",
-      "descrpition": "Call center",
-      "address": "St.October",
-      "rate": 4.0,
-      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F17e5b67979dffff4ebd75b2c972684c6.jpg?alt=media&token=6762052e-2b83-4b38-a881-8792b5df4cb5"
-    },
-    {
-      "id": 30,
-      "name": "Tomas john",
-      "descrpition": "IT Manager",
-      "address": "St.Sohagr",
-      "rate": 4.5,
-      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2F58654719_2160921793960980_9049416515517939712_o.jpg?alt=media&token=a59ee74a-8c06-437c-baee-13f0c6ffb0a8"
-    },
-    {
-      "id": 31,
-      "name": "Nabil Adeeb",
-      "descrpition": "English Teacher",
-      "address": "St.Hadeq Maadi",
-      "rate": 3.5,
-      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2FWorried-2.jpg?alt=media&token=771be97f-92bc-453e-8d89-24ded3b52488"
-    },
-    {
-      "id": 32,
-      "name": "Ibrahem Salah",
-      "descrpition": "English Teacher",
-      "address": "St.Hadeq Maadi",
-      "rate": 3.3,
-      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2FWorried-2.jpg?alt=media&token=771be97f-92bc-453e-8d89-24ded3b52488"
-    },
-    {
-      "id": 33,
-      "name": "wageh mina",
-      "descrpition": "English Teacher",
-      "address": "St.Hadeq Maadi",
-      "rate": 3.1,
-      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2FWorried-2.jpg?alt=media&token=771be97f-92bc-453e-8d89-24ded3b52488"
-    },
-    {
-      "id": 34,
-      "name": "Eslam hamdy",
-      "descrpition": "English Teacher",
-      "address": "St.Hadeq Maadi",
-      "rate": 4.5,
-      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2FWorried-2.jpg?alt=media&token=771be97f-92bc-453e-8d89-24ded3b52488"
     }
   ]
 }
