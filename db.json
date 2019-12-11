@@ -239,14 +239,6 @@
       "address": "St.Hadeq Maadi",
       "rate": 3.5,
       "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2FWorried-2.jpg?alt=media&token=771be97f-92bc-453e-8d89-24ded3b52488"
-    },
-    {
-      "id": 31,
-      "name": "kero mina",
-      "descrpition": "software developer",
-      "address": "St.helwan",
-      "rate": 4.9,
-      "photo": "https://firebasestorage.googleapis.com/v0/b/newprojectcustomer.appspot.com/o/images%2Fpexels-photo-220453-1-1001x1024.jpeg?alt=media&token=bd4cc756-3fa0-4ca3-88c9-ee0b86d8b05c"
     }
   ]  
 }
